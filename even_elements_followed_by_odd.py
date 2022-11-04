@@ -7,7 +7,7 @@ for i in range(len(s)):
         a.append(s[i])
     else:
         b.append(s[i])
-for k in range(len(b)):
-    a.append(b[k])
+for l in range(len(b)):
+    a.append(b[l])
 for j in range(len(a)):
     print(a[j],end=" ")
