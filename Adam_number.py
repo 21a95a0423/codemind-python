@@ -1,6 +1,6 @@
 def rev(n):
     c=0
-    added
+   
     while n:
         d=n%10
         c=c*10+d
