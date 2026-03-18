@@ -1,5 +1,5 @@
 def rev(n):
-    c=0
+    c=1
     while n:
         d=n%10
         c=c*10+d
