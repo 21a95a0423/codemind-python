@@ -1,4 +1,6 @@
 def rev(n):
+    if(x=0):
+        
     c=0
 
     while n:
